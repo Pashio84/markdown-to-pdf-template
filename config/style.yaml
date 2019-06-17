@@ -1,0 +1,27 @@
+---
+papersize: a4
+mainfont: IPAPGothic
+sansfont: BIZ UDPGothic
+monofont: Source Han Code JP
+CJKmainfont: BIZ UDPGothic
+fontsize: 12pt
+linestretch: 1.25
+geometry: top=35truemm, bottom=35truemm, left=30truemm, right=30truemm
+title: This is title
+subtitle: This is sub title
+author: This is author
+date: YYYY年MM月DD日
+references:
+- id: referenceId
+  author: 
+  - family: author1,author2
+  title: This is reference title
+  container-title: This is container-title
+  volume: x
+  page: x--x
+  issued:
+  - year: x
+  type: article-journal
+csl:
+  - templates/ieee.csl
+---
