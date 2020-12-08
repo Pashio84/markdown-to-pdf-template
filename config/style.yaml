@@ -11,17 +11,8 @@ title: This is title
 subtitle: This is sub title
 author: This is author
 date: YYYY年MM月DD日
-references:
-- id: referenceId
-  author: 
-  - family: author1,author2
-  title: This is reference title
-  container-title: This is container-title
-  volume: x
-  page: x--x
-  issued:
-  - year: x
-  type: article-journal
+bibliography:
+  - reference.bib
 csl:
   - templates/ieee.csl
 ---
